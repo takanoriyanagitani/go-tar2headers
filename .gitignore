@@ -25,3 +25,4 @@ go.work.sum
 .env
 *.swp
 cmd/tar2headers/tar2headers
+cmd/tar2headers/sample.tar
